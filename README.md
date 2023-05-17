@@ -9,6 +9,7 @@ I. HOW TO RUN THE APPLICATION
     - Go to entry-level-sessions-fe
     - Run: `npm install` to install dependencies
     - Run: `npm start` to start the application
+    - If have a message: Something is already running on port 3000. Please enter `y` to start on port 3001. And you can access the application on browser via: `http://localhost:3001/`
 
 II. APPLICATION EXPLAINATION
 
