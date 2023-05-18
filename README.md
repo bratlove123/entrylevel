@@ -24,7 +24,7 @@ II. APPLICATION EXPLAINATION
     - Using axios to get data from provided API
 
 2. Frontend
-    - I chooose reactjs as the framework
+    - I choose reactjs as the framework
     - Antd at UI framework, I also apply style-components as well
     - I choose redux toolkit for management state because it is powerfull, codeless and easy to maintain
     - I also do some responsives for application.
